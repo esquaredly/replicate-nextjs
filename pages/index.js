@@ -49,8 +49,7 @@ export default function Home() {
       </Head>
 
       <p>
-        Dream something with{" "}
-        <a href="https://replicate.com/kuprel/min-dalle">kuprel/min-dalle</a>:
+        Tian's Step 1 demo for SD
       </p>
 
       <form className={styles.form} onSubmit={handleSubmit}>
