@@ -49,7 +49,7 @@ export default function Home() {
       </Head>
 
       <p>
-        Tian's Step 1 demo for SD
+        Tian: Minimal demo for SD
       </p>
 
       <form className={styles.form} onSubmit={handleSubmit}>
